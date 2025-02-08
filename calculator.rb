@@ -1,5 +1,5 @@
 class Calculator
   def add(a, b)
-    puts a + b
+    a + b
   end
 end
